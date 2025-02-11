@@ -7,7 +7,7 @@ A simple event planning application built using the MERN (MongoDB, Express.js, R
 
 Click the link below to see the demonstration of the Event Planning System.
 
-Link 👉 https://drive.google.com/file/d/1BNzDI0VLPEHEvQEXQS1YqIGkO78SArGh/view?usp=sharing 👈
+Link 👉 https://drive.google.com/file/d/1-IY0wHUNpT9FVWahgqEvxbOD0KpoQjCp/view?usp=sharing 👈
 
 
 ## Features
