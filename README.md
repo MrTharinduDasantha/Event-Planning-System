@@ -25,6 +25,10 @@ Link 👉 https://drive.google.com/file/d/1BNzDI0VLPEHEvQEXQS1YqIGkO78SArGh/view
 - Book Event: Select and book a desired event.
 - User Registration & Login: Register as a user to access event booking.
 
+### Authentication & Access Control
+- Admin Access: Users who register as admins can log in to both the admin panel (with event management features) and the user site.
+- User Access: Users who register as regular users can only log in to the user site (without admin features).
+
 
 ## Technologies Used
 
