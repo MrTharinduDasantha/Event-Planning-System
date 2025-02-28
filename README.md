@@ -59,7 +59,7 @@ The project is divided into three main folders: admin, frontend, and backend. Yo
 npm install
 ```
 #### Environment Variables
-Before running the app, configure the .env file in the server folder with the necessary environment variables.
+Before running the app, configure the .env file in the backend folder with the necessary environment variables.
 - Create a .env file in the backend folder.
 - Replace placeholders with your actual values:
 ```bash
